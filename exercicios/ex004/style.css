@@ -10,6 +10,7 @@ body {
     height: 100vw;
     width: 100vw;
     background-image: linear-gradient(to bottom, rgb(108, 186, 238), rgb(2, 81, 117));
+    background-attachment: fixed;
 }
 
 header {
@@ -38,10 +39,6 @@ section > div {
     font-size: 1.25em;
 
     padding: 25px;
-}
-
-section > div > p {
-    padding: 10px;
 }
 
 footer {
